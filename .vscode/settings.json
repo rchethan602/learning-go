@@ -1,0 +1,30 @@
+{
+    "go.alternateTools": {
+
+    },
+    "go.delveConfig": {
+
+    },
+    "go.goroot": "/usr/local/go1.21.5.linux-amd64",
+    "go.gopath": "/home/uif83648/go",
+    "go.formatTool": "gofumpt",
+    "go.inlayHints.constantValues": true,
+    "go.inlayHints.compositeLiteralTypes": true,
+    "go.inlayHints.compositeLiteralFields": true,
+    "go.inlayHints.assignVariableTypes": true,
+    "go.survey.prompt": false,
+    "go.useLanguageServer": true,
+    "[go]": {
+    "editor.snippetSuggestions": "none",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    },
+    "gopls": {
+
+
+    
+        "usePlaceholders": false  // experimental to improve quality of hover (will be on by default soon)
+    }
+}

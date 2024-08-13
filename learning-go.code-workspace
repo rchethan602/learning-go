@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"go.inlayHints.constantValues": true,
+		"go.inlayHints.compositeLiteralTypes": true,
+		"go.inlayHints.compositeLiteralFields": true,
+		"go.inlayHints.assignVariableTypes": true,
+		"go.survey.prompt": false,
+		"go.useLanguageServer": true,
+		"editor.codeLensFontSize": 0
+	}
+}

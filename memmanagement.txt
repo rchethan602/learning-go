@@ -1,0 +1,23 @@
+new()
+
+Allocate memory but no INIT
+you will get a memory  address
+zeroed address
+
+make()
+Allocate memory and INIT
+you will get a memory address
+non-zeroed address
+
+Garbase collection happens automatically
+
+Out of scope or nil
+
+
+THe GOGC veraibles set the initial % of garbage colllection
+
+
+functions, to enquire resources availables .
+
+// defer In Golang, the defer keyword is used to delay the execution of a function or a statement until the nearby function returns. 
+// In simple words, defer will move the execution of the statement to the very end inside a function
